@@ -1,0 +1,79 @@
+{
+  "topic": "the Halifax explosion 1917 — Vince Coleman's last telegram",
+  "duration_sec": 86.56,
+  "aspect_ratio": "9:16",
+  "shots": [
+    {
+      "index": 0,
+      "photo_path": "content/2026-06-15_halifax-explosion-1917/photos/approved/shot_001_halifax-waterfront-1917.jpg",
+      "dwell_sec": 9.0,
+      "ken_burns": { "type": "zoom_in", "start_scale": 1.00, "end_scale": 1.10, "focal_x": 0.5, "focal_y": 0.5 },
+      "narration_beat": "setup",
+      "narration_excerpt": "Halifax, December sixth, 1917. The harbor is on fire."
+    },
+    {
+      "index": 1,
+      "photo_path": "content/2026-06-15_halifax-explosion-1917/photos/approved/shot_002_halifax-1900.jpg",
+      "dwell_sec": 10.0,
+      "ken_burns": { "type": "zoom_in", "start_scale": 1.00, "end_scale": 1.08, "focal_x": 0.55, "focal_y": 0.50 },
+      "narration_beat": "spectators",
+      "narration_excerpt": "Thousands of people stop to watch. They press their faces to windows."
+    },
+    {
+      "index": 2,
+      "photo_path": "content/2026-06-15_halifax-explosion-1917/photos/approved/shot_003a_telegraph-operator-1917.jpg",
+      "dwell_sec": 17.0,
+      "ken_burns": { "type": "zoom_in", "start_scale": 1.00, "end_scale": 1.15, "focal_x": 0.5, "focal_y": 0.45 },
+      "narration_beat": "reversal",
+      "narration_excerpt": "A telegraph operator named Vince Coleman knows. He goes back. Alone."
+    },
+    {
+      "index": 3,
+      "photo_path": "content/2026-06-15_halifax-explosion-1917/photos/approved/shot_003_boston-globe-headline.jpg",
+      "dwell_sec": 11.0,
+      "ken_burns": { "type": "zoom_in", "start_scale": 1.00, "end_scale": 1.12, "focal_x": 0.5, "focal_y": 0.4 },
+      "narration_beat": "telegram",
+      "narration_excerpt": "Hold up the train. Ammunition ship afire in harbor. Good-bye boys."
+    },
+    {
+      "index": 4,
+      "photo_path": "content/2026-06-15_halifax-explosion-1917/photos/approved/shot_004_blast-cloud-restored.jpg",
+      "dwell_sec": 10.0,
+      "ken_burns": { "type": "zoom_out", "start_scale": 1.18, "end_scale": 1.00, "focal_x": 0.5, "focal_y": 0.55 },
+      "narration_beat": "explosion",
+      "narration_excerpt": "Twenty seconds later, two thousand tons of TNT detonate."
+    },
+    {
+      "index": 5,
+      "clip_path": "content/2026-06-15_halifax-explosion-1917/video/scene_09_richmond_foundry.webm",
+      "dwell_sec": 9.0,
+      "trim_start": 5.0,
+      "narration_beat": "glass",
+      "narration_excerpt": "A wave of glass crosses the city — every window facing the harbor."
+    },
+    {
+      "index": 6,
+      "clip_path": "content/2026-06-15_halifax-explosion-1917/video/scene_08_desolation.webm",
+      "dwell_sec": 7.0,
+      "trim_start": 3.0,
+      "narration_beat": "eye_injuries",
+      "narration_excerpt": "Two hundred and forty-nine people lose an eye. Sixteen lose both."
+    },
+    {
+      "index": 7,
+      "clip_path": "content/2026-06-15_halifax-explosion-1917/video/scene_01_richmond_people.webm",
+      "dwell_sec": 9.0,
+      "trim_start": 10.0,
+      "narration_beat": "tsunami",
+      "narration_excerpt": "Then the water comes. A wall of harbor, eighteen metres high."
+    },
+    {
+      "index": 8,
+      "clip_path": "content/2026-06-15_halifax-explosion-1917/video/scene_12_ruins.webm",
+      "dwell_sec": 7.5,
+      "trim_start": 8.0,
+      "narration_beat": "quiet_exit",
+      "narration_excerpt": "Eighteen hundred die. Three hundred live. He never knows."
+    }
+  ]
+}

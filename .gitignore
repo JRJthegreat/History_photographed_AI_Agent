@@ -1,0 +1,29 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.egg-info/
+
+# Per-Reel working artifacts (audio + raw photos can be large; final.mp4 too)
+content/*/audio/
+content/*/photos/raw/
+content/*/photos/approved/
+content/*/*.mp4
+content/*/.cache/
+
+# Apify scrape outputs (large)
+reference/top-reels.json
+reference/transcripts/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp

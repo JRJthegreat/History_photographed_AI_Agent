@@ -1,0 +1,27 @@
+{
+  "reel_id": "2026-06-15_halifax-explosion-1917",
+  "topic": "the Halifax explosion 1917",
+  "created_at": "2026-06-15T04:15:00Z",
+  "duration_sec": null,
+  "assets": {
+    "photos": [],
+    "audio": {
+      "narration_engine": null,
+      "narration_voice_id": null,
+      "music_source": null,
+      "music_license": null
+    }
+  },
+  "costs_usd": {
+    "claude_orchestration": 0.0,
+    "elevenlabs_v3": 0.0,
+    "whisper_transcription": 0.0,
+    "topaz_colorize": 0.0,
+    "total": 0.0
+  },
+  "gates": {
+    "script_approved_at": "2026-06-15T04:25:00Z",
+    "photos_approved_at": "2026-06-15T04:29:00Z",
+    "final_approved_at": null
+  }
+}

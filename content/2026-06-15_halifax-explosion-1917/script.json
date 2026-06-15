@@ -1,0 +1,29 @@
+{
+  "topic": "the Halifax explosion 1917 — Vince Coleman's last telegram",
+  "target_duration_sec": 86,
+  "estimated_word_count": 205,
+  "tagged_script": "Halifax, December sixth, 1917. The harbor is on fire. A munitions ship drifts toward the pier, burning.\n\nThousands of people stop to watch. They press their faces to windows. They walk down to the waterfront. They have no idea what's on board.\n\nA telegraph operator named Vince Coleman knows. A sailor has just told him. He's already running for safety alongside his coworker — then stops. He turns around. There's a passenger train coming — three hundred people who don't know what's about to happen.\n\nHe goes back. Alone.\n\nHe sends one last message. [pause] Hold up the train. Ammunition ship afire in harbor. Guess this will be my last message. Good-bye boys.\n\nTwenty seconds later, two thousand tons of TNT detonate. The largest man-made explosion in history until Hiroshima.\n\nA wave of glass crosses the city — every window facing the harbor. Two hundred and forty-nine people lose an eye that morning. Sixteen lose both.\n\nThen the water comes. A wall of harbor, eighteen metres high. It crosses to the Dartmouth shore and erases the Mi'kmaq village at Tufts Cove — a community that had lived there for generations.\n\n[softly] Eighteen hundred die. Three hundred live. He never knows.",
+  "beats": [
+    { "index": 0, "beat": "setup",         "seconds": [0, 8],    "summary": "Halifax harbor on fire, munitions ship drifting" },
+    { "index": 1, "beat": "spectators",    "seconds": [8, 19],   "summary": "Thousands of people gather to watch — windows, waterfront — they don't know" },
+    { "index": 2, "beat": "reversal",      "seconds": [19, 39],  "summary": "Coleman is running with his coworker — turns around — goes back alone for the train" },
+    { "index": 3, "beat": "telegram",      "seconds": [39, 52],  "summary": "Verbatim last telegram" },
+    { "index": 4, "beat": "explosion",     "seconds": [52, 62],  "summary": "TNT, Hiroshima" },
+    { "index": 5, "beat": "glass",         "seconds": [62, 72],  "summary": "Wave of glass — 249 eye removals, 16 lose both eyes" },
+    { "index": 6, "beat": "tsunami",       "seconds": [72, 84],  "summary": "18-metre wave erases the Mi'kmaq village at Tufts Cove" },
+    { "index": 7, "beat": "quiet_exit",    "seconds": [84, 86],  "summary": "1800 die. 300 live. He never knows." }
+  ],
+  "pronunciation_overrides": [
+    { "word": "Hiroshima", "phonetic": "hee-ROH-shee-mah" },
+    { "word": "Mi'kmaq",   "phonetic": "MIG-maw" }
+  ],
+  "ending_pattern": "A+B",
+  "ending_pattern_name": "Recontextualization layered with fate reveal — forces a reread of the opening image",
+  "hooks_avoided": ["story_opener", "youtube_greeting", "delay_phrase", "mental_effort_question"],
+  "sources_used": [
+    "https://en.wikipedia.org/wiki/Halifax_Explosion",
+    "https://www.britannica.com/event/Halifax-explosion",
+    "https://www.warmuseum.ca/firstworldwar/history/life-at-home-during-the-war/wartime-tragedies/the-halifax-explosion/"
+  ],
+  "notes": "Verbatim final telegram from Maritime Museum of the Atlantic (via Wikipedia). 1,782 confirmed dead rounded to 1800 for cadence. Tsunami height of 18 metres / 59 feet is the documented maximum on the Halifax side. Tufts Cove was a long-established Mi'kmaq community wiped out by the wave. Coleman's coworker William Lovett left him to send the telegrams alone."
+}

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python .claude/scripts/archive_search.py:*)",
+      "Bash(python .claude/scripts/tts_generate.py:*)",
+      "Bash(python .claude/scripts/subtitle_burn.py:*)",
+      "Bash(python .claude/scripts/ken_burns_assemble.py:*)",
+      "Bash(mkdir -p content/*)",
+      "Bash(mkdir -p reference)",
+      "Bash(ffprobe:*)",
+      "Bash(ffmpeg -version)",
+      "Bash(open content/*)"
+    ]
+  }
+}
